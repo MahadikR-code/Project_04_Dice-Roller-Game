@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Syncopate&display=swap');
+.container {
+    width: 70%;
+    margin:auto;
+    text-align: center;
+  }
+  
+  .dice {
+    margin:auto;
+    padding: 0 10px 10px;
+    text-align: center;
+    display: inline-block;
+  
+  }
+  img{
+    width: 150px;
+    
+  }
+  .title-btn{
+    margin-top: 2%;
+    font-family: "Syncopate";
+    font-size: 2rem;
+    text-align: center;
+  }
+  
+  body{
+    background-color: #2a2b28;
+  
+  }
+  
+  h1{
+    margin: 40px;
+    font-family: "Pacifico";
+    font-size: 6rem;
+    color: #E3B04B;
+  }
+  
+  p{
+  
+    font-family: "Syncopate";
+    font-size: 1.4rem;
+    color: #E3B04B;
+  }
+  
+  footer{
+    position: relative;
+    padding: 10px;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    margin-top: 5%;
+    text-align: center;
+    font-family: "Syncopate";
+    color: #E3B04B;
+  }
